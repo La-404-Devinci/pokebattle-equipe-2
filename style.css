@@ -1,3 +1,23 @@
-
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .pokemon {
+  width: 500px;
+  height: 500px;
+  border: 10px solid #bdbdbd;
+  background-color: #5d90ff;
+  display: flex;
+  margin: 60px auto 0;
+}
+body .pokemon__info {
+  width: 250px;
+  height: 500px;
+  background-color: #5dfffc;
+}
+body .pokemon__list {
+  width: 250px;
+  height: 500px;
+  background-color: #ff4e4e;
+}
 
 /*# sourceMappingURL=style.css.map */
